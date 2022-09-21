@@ -14,6 +14,8 @@ About me:
 - 🔭 I’m currently working on deep learning
 
 - 🌱 I’m currently learning android app
+
+- 🌱 I’m currently learning java
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
