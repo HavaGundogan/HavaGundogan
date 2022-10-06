@@ -3,7 +3,7 @@
   </div>
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47xia4wyyslkzbry37f4xvmtcuu07urmiqx729ffi0&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/hava-g%C3%BCndo%C4%9Fan-3bba91135/">
